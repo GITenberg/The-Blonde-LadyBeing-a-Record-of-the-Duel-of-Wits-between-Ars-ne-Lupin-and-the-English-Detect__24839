@@ -1,0 +1,48 @@
+_repo: The-Blonde-LadyBeing-a-Record-of-the-Duel-of-Wits-between-Ars-ne-Lupin-and-the-English-Detect__24839
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24839-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leblanc, Maurice
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '1358'
+    url: http://www.gutenberg.org/2009/agents/1358
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
+description: "Arsène Lupin vs. Herlock Sholmes is a collection of two adventures of\
+  \ Arsène Lupin, written by Maurice Leblanc. These adventures feature a match of\
+  \ wits between Lupin and Herlock Sholmes, a transparent reference to Sherlock Holmes,\
+  \ the hero of Conan Doyle's detective stories. It follows the appearance of Arsène\
+  \ Lupin, Gentleman Burglar, in which Sherlock Holmes also makes an appearance in\
+  \ \"Sherlock Holmes Arrives Too Late\". The collection was translated twice into\
+  \ English, as Arsène Lupin versus Herlock Sholmes in the U.S. (1910, by George Morehead),\
+  \ and as Arsène Lupin versus Holmlock Shears in the UK (1910, by Alexander Teixeira\
+  \ de Mattos, printed as The Blonde Lady in the U.S.).\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2008-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24839'
+  wikidata: Q2864487
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PQ'
+- !lcsh 'Lupin, Arsène (Fictitious character) -- Fiction'
+title: 'The Blonde Lady
+
+  Being a Record of the Duel of Wits between Arsène Lupin and the English Detective'
+url: http://www.gutenberg.org/ebooks/24839
+wikipedia:
+- https://fr.wikipedia.org/wiki/Ars%C3%A8ne_Lupin_contre_Herlock_Sholm%C3%A8s
+- https://ar.wikipedia.org/wiki/%D8%A3%D8%B1%D8%B3%D9%8A%D9%86_%D9%84%D9%88%D8%A8%D9%8A%D9%86_%D8%B6%D8%AF_%D9%87%D8%B1%D9%84%D9%88%D9%83_%D8%B4%D9%88%D9%84%D9%85%D8%B2
+- https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%91%E3%83%B3%E5%AF%BE%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA
+- https://pt.wikipedia.org/wiki/Ars%C3%A8ne_Lupin_contra_Herlock_Sholmes
+- https://cs.wikipedia.org/wiki/Ars%C3%A8ne_Lupin_kontra_Herlock_Sholmes
+- https://pl.wikipedia.org/wiki/Ars%C3%A8ne_Lupin_kontra_Herlock_Sholm%C3%A8s
+- https://en.wikipedia.org/wiki/Ars%C3%A8ne_Lupin_vs._Herlock_Sholmes
+- https://ro.wikipedia.org/wiki/Ars%C3%A8ne_Lupin_contra_lui_Herlock_Sholmes
