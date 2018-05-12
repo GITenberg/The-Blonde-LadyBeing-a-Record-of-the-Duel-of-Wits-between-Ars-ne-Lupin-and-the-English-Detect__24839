@@ -20,6 +20,8 @@ description: "Arsène Lupin vs. Herlock Sholmes is a collection of two adventure
   \ English, as Arsène Lupin versus Herlock Sholmes in the U.S. (1910, by George Morehead),\
   \ and as Arsène Lupin versus Holmlock Shears in the UK (1910, by Alexander Teixeira\
   \ de Mattos, printed as The Blonde Lady in the U.S.).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24839#The-Blonde-LadyBeing-a-Record-of-the-Duel-of-Wits-between-Ars-ne-Lupin-and-the-English-Detect_
 gutenberg_issued: '2008-03-15'
 gutenberg_type: Text
 identifiers:
